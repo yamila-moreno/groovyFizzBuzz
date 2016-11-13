@@ -3,8 +3,9 @@ Run tests
 
 Groovy Spock framework
 
-groovy FizzBuzzSpec.groovy
+    groovy FizzBuzzSpec.groovy
 
-## Travis status
+Travis status
+=============
 
-[![Build Status](https://travis-ci.org/markhu/groovyFizzBuzz.svg?branch=master)](https://travis-ci.org/markhu/groovyFizzBuzz)
+[![Build Status](https://travis-ci.org/yamila-moreno/groovyFizzBuzz.svg?branch=master)](https://travis-ci.org/yamila-moreno/groovyFizzBuzz)
