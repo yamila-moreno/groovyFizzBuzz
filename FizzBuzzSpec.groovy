@@ -1,4 +1,6 @@
-@Grab(group='org.spockframework', module='spock-core', version='0.7-groovy-2.0')
+#!/usr/bin/env groovy
+
+@Grab(group='org.spockframework', module='spock-core', version='1.0-groovy-2.4')
 import spock.lang.*
 
 class FizzBuzzSpec extends Specification {
